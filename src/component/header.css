@@ -1,0 +1,33 @@
+.head {
+    background-color: #d8e46b;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    position: relative;
+}
+
+.task {
+    background-color: #ffffff;
+    padding: 10px 30px;
+    margin: 0px 7px;
+    border-radius: 6px;
+    border: none;
+}
+
+.bt {
+    cursor: pointer;
+    background-color: #bac600;
+    padding: 10px 15px;
+    border-radius: 6px;
+    border: none;
+}
+
+.bt:hover {
+    color: rgba(0, 228, 253, 0.8);
+
+}
+
+.todo {
+    font-size: 30px;
+}

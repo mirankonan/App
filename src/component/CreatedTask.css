@@ -1,0 +1,33 @@
+.div {
+    display: flex;
+    justify-content:left;
+    align-items: center;
+    height: 60px;
+    position: relative;
+    top: 10px;
+    width: 50%;
+    left: 25%;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: rgb(105, 142, 105);
+    color: black;
+    padding-left: 50px;
+}
+
+.deletebut {
+    display: flex;
+    position: relative;
+    bottom: 40px;
+    left: 69%;
+    background-color: red;
+    color: white;
+    border-color: white;
+    border-radius: 5px;
+    padding: 10px;
+    
+}
+
+.check {
+    position: relative;
+    
+}
